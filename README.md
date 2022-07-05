@@ -5,7 +5,7 @@
 Welcome 👋 to this chess project! If you want to install this project, you can clone it on your computer with:
 
 ```bat
-git clone https://github.com/ThierryBeaulieu/Chess
+git clone https://github.com/ThierryBeaulieu/PythonCppAndReactTemplate
 ```
 
 Before continuing, you will need to install a couple of prerequisites 📖. 
