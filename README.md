@@ -1,4 +1,4 @@
-# Chess ♖ ♘ ♗ ♕ ♔ ♗ ♘ ♖ &middot; [![GitHub license](https://badgen.net/badge/Lisence/MIT/blue)](https://github.com/ThierryBeaulieu/Chess/blob/master/LICENSE) &middot; <img src="https://badgen.net/badge/icon/Cross%20platform/blue?icon=awesome&label"/>
+# PythonCppAndReactTemplate♖ ♘ ♗ ♕ ♔ ♗ ♘ ♖ &middot; [![GitHub license](https://badgen.net/badge/Lisence/MIT/blue)](https://github.com/ThierryBeaulieu/Chess/blob/master/LICENSE) &middot; <img src="https://badgen.net/badge/icon/Cross%20platform/blue?icon=awesome&label"/>
 
 ## Prerequisites
 
