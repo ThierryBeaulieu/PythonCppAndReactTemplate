@@ -1,4 +1,4 @@
-# PythonCppAndReactTemplate♖ ♘ ♗ ♕ ♔ ♗ ♘ ♖ &middot; [![GitHub license](https://badgen.net/badge/Lisence/MIT/blue)](https://github.com/ThierryBeaulieu/Chess/blob/master/LICENSE) &middot; <img src="https://badgen.net/badge/icon/Cross%20platform/blue?icon=awesome&label"/>
+# PythonCppAndReactTemplate &middot; [![GitHub license](https://badgen.net/badge/Lisence/MIT/blue)](https://github.com/ThierryBeaulieu/Chess/blob/master/LICENSE)
 
 ## Prerequisites
 
@@ -11,7 +11,7 @@ git clone https://github.com/ThierryBeaulieu/PythonCppAndReactTemplate
 Before continuing, you will need to install a couple of prerequisites 📖. 
 
 1. [Python 3](https://www.python.org/downloads/)
-2. [CMake and its GUI](https://cmake.org/install/)
+2. [CMake](https://cmake.org/install/)
 3. [Node.js](https://nodejs.org/en/download/)
 
 Once that this is done ✔️, you should good to go! You will now be able to proceed to the installation 🚀
